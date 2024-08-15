@@ -7,3 +7,5 @@ The project developed a deep learning model to classify cartoon vs. not cartoon 
 ## Goals
 - Enhance M-Banking Account Security: Detects and prevents the use of cartoon images during account registration, strengthening the security of the identity verification system.
 - Minimize the Risk of Fraud: Reduce the risk of opening m-banking accounts with fake identities that can be used for financial crimes.
+
+[Access The Model](https://huggingface.co/spaces/Libidrave/CartoonOrNot)
