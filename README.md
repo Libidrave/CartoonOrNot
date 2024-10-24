@@ -11,5 +11,3 @@ The project developed a deep learning model to classify cartoon vs. not cartoon 
 ![image](https://github.com/user-attachments/assets/b8481bc9-a8a2-4ff5-bae0-0c06175b63e3)
 
 [Access The Model](https://huggingface.co/spaces/Libidrave/CartoonOrNot)
-
-[View The Model Repository at HuggingFace](https://huggingface.co/Libidrave/CartoonOrNotv2)
